@@ -1,0 +1,14 @@
+name: WQD7001GP
+title:
+username:
+account: junhongsu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8139184
+bundleId: 6786653
+url: https://junhongsu.shinyapps.io/WQD7001GP/
+when: 1675009126.36732
+lastSyncTime: 1675009126.36733
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|APP1.R|sources.R
